@@ -1,0 +1,860 @@
+body{
+    background-color: #F5F5F5;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+.frame35{
+    width:1366px;
+    height:3609px;
+    background-color: #FFFFFF;
+}
+.image1{
+    width:1366px;
+    height:841.82px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 13.65%), linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://r1.ilikewallpaper.net/ipad-wallpapers/download/33770/Mountain-Wood-Night-Dark-River-Nature-Blue-ipad-wallpaper-ilikewallpaper_com.jpg);
+
+}
+.frame55{
+    width:1126px;
+    height:82px;
+    margin-left:120px;
+    margin-top:500px;
+   
+
+}
+.frame55 ul li img{
+    width:44.06px;
+    height:44.06px;
+}
+.frame55 a{
+    text-decoration: none;
+}
+.frame14{
+
+    height:66px;
+    width:1126px;
+    
+    
+}
+.frame14 ul li img{
+    color:white;
+    opacity: 0.4;
+
+}
+.frame14 a{
+    width: 63px;
+    height: 18px;
+    color: #FFFFFF;
+    opacity: 0.4;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+}
+.frame14 img{
+    width:32px;
+    height:32px;
+    opacity: 0.4;
+    
+
+}
+
+
+.frame55 ul{
+    gap:auto;
+    text-align: center;
+    
+}
+
+.frame53{
+    position: absolute;
+width: 1366px;
+height: 105px;
+left: 0px;
+top: 738.82px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 89.58%);
+
+}
+.frame11{
+    width:1126px;
+    height:60px;
+    margin-left: 120px;
+    margin-top: 331px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(32px);
+    align-items: center;
+    justify-content: center;
+   
+}
+.frame10{
+    width:1094px;
+    height:44px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.frame10 td{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:12px 8px;
+    width:147px;
+    height:44px;
+   
+}
+.frame10 table span{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #FFFFFF;
+    
+    opacity: 0.7;
+}
+.frame10 tr{
+    display: flex;
+    gap:32px;
+}
+.frame10 tr th{
+
+    display: flex;
+    align-items: center;
+    padding:12px 8px;
+    width:378px;
+    height:44px;
+    
+}
+
+.frame10 tr iconify-icon{
+margin-right: 8px;
+width: 20px;
+height: 20px;
+opacity: 0.7;
+color:#FFFFFF;
+
+}
+
+.frame10 .search{
+    width:147px;
+    height:42px;
+    border-radius: 32px;
+    align-items: center;
+    justify-content: center;
+    padding:12px 32px;
+    color:#2659C3;
+    background-color: #FFFFFF;
+    
+}
+.frame35 .head1 h1{
+        
+    font-size: 72px;
+    font-weight: bold;
+    margin-top:125px;
+    margin-left:120px;
+    width:759px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 83px;
+    color: #FFFFFF;
+}
+
+.frame35 .head2 h2{
+    margin-top:431px;
+    margin-left:120px;
+    font-size: 32px;
+    font-weight: bold;
+    color:#FFFFFF;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 37px;
+
+}
+.frame92{
+    position: absolute;
+    width: 1366px;
+    height: 2000px;
+    margin-top: 638px;
+    gap:72px;
+    align-items: center;
+    overflow: hidden;
+}
+
+.frame90, .frame83{
+    gap: 32px;
+    width: 1366px;
+    height: 285px;
+}
+.frame91, .frame84{
+    padding: 8px 120px;
+    gap: 8px;
+    width: 639px;
+    height: 53px;
+}
+
+.frame91 h1,.frame84 h1{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+.frame84 h1{
+    color:black
+}
+
+.frame54, .frame74{
+    width: 1366px;
+    height: 200px;
+    /*overflow-x: scroll;*/ 
+    gap:24px;
+    margin-left: 126px;
+}
+.frame54 .frame31,.frame74 .frame31{
+    width: 310px;
+    height: 200px;
+    border-radius: 8px;
+}
+.frame54 .frame31 img,
+.frame75 .frame31 img{
+    position: absolute;
+    width: 310px;
+    height: 200px;
+    border-radius: 8px;
+}
+.textposition{
+    width: 164px;
+    height: 31px;
+    left: 24px;
+    top: 146px;
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    color: #FFFFFF;
+
+}
+
+
+
+
+.frame88{
+    width: 1366px;
+    height: 343px;
+    gap: 32px;
+    background-color: white;
+    
+    overflow: hidden;
+}
+.frame88 .frame60{
+    width: 1366px;
+height: 258px;
+overflow-x: scroll;
+margin-left:120px;
+}
+
+.frame62{
+    width: 1126px;
+    height: 395px;
+    background: #FFFFFF;
+    border-radius: 24px;
+}
+
+
+
+
+
+
+
+
+ .parent86{
+    position: relative;
+    border-radius: 16px;
+    padding:16px;
+
+ }
+ 
+
+ 
+ 
+ .offerpic img{
+    width:310px;
+    height:210px;
+ }
+ .offerdetails {
+    width:322px;
+    height:210px;
+    gap: 16px;
+
+ }
+ .offerbutton{
+    width:140px;
+    height:52px;
+    border-radius: 32px;
+    background-color: #2659C3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+ }
+ .frame88 .heading{
+    width: 95px;
+    height: 37px;
+    padding: 8px 120px;
+    gap: 8px;   
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+
+ }
+ .offeritem{
+    width:688px;
+    height:258px;
+    padding:24px 16px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(158, 158, 158, 0.25);
+    border-radius: 16px;    
+ }
+ .offerframe{
+    width:656px;
+    gap:24px;
+    height:210px;
+ }
+ .offerpic img{
+    width:310px;
+    height:210px;
+    border-radius: 20.98px;
+ }
+.offertext{
+    gap: 16px;
+    width: 322px;
+    height: 142px;
+}
+.offertext p{
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #000000;
+
+    opacity: 0.5;
+}
+.frame56{
+    gap: 4px;
+    width: 310px;
+    height: 86px;
+}
+.frame56 h1{
+    font-family: 'Netflix Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+opacity: 0.5;
+}
+.frame56 h2{
+    font-family: 'Netflix Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+}
+ .frame88 ul{
+    gap:24px;
+ }
+ .frame62 .image20{
+    border-radius: 24px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(https://i0.wp.com/www.ramnathsaway.com/wp-content/uploads/2017/11/3.-center-clips-activity.jpg?resize=1024%2C669&ssl=1);
+    width: 1127px;
+    height: 395px;
+ }
+ .parent62{
+    position: relative;
+   
+ }
+ .image20{
+    width: 1127px;
+    height: 395px;
+    
+ }
+.frame62 .parent62 .head62{
+    position: absolute;
+    width: 678.8px;
+    height: 128px;
+    left: 80px;
+    top: 80px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FFFFFF;
+}
+.frame62 .parent62 .para62{
+    position: absolute;
+    width: 817px;
+    height: 41px;
+    left: 80px;
+    top: 232px;
+    
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 41px;
+    color: #FFFFFF;
+
+}
+
+
+
+
+
+
+.frame73{
+    widtH:1366px;
+    height: 543px;
+    margin-top:2778px;
+    overflow: hidden;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://www.daysoftheyear.com/wp-content/uploads/look-up-at-the-sky-day-1.jpg);
+}
+
+
+
+.frame73 .iphone13 .img{
+    width:260px;
+    height:526.57px;
+   
+}
+.iphone13{
+    margin-left: 131.62px;
+    margin-top: 75px;
+}
+.googleplay  {
+    margin-left:1036.72px;
+    margin-top:270px;
+    position:absolute;
+    width:202px;
+    height: 60px;
+
+}
+.appstore{
+    width:202px;
+    height: 60px;
+    position:absolute;
+    margin-top:358.06px;
+    margin-left:1036.72px;
+}
+
+
+
+.frame80{
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    width: 771.93px;
+    height: 163px;
+    margin-left: 474px;
+    margin-top: 75px;
+}
+.frame80 h1{
+    width: 722.84px;
+    height: 55px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    color: #FFFFFF;
+ 
+}
+.frame80 p{
+    width: 771.93px;
+    height: 84px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+
+.frame79{
+    padding: 0px;
+    gap: 16px;
+    width: 462px;
+    height: 145px;
+    margin-left: 474px;
+    margin-top: 270px;
+
+}
+.frame7555{
+    gap: 24px;
+    width: 182px;
+    height: 39px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+.frame7555 .frame7666{
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(32px);
+    border-radius: 16px;
+    padding:8px 16px;
+    width: 91px;
+    height: 39px;  
+    text-align: center; 
+
+}
+.frame7555 .frame7777{
+    padding:8px;
+    width: 59px;
+    height: 23px;
+}
+.frame7888{
+    width: 462px;
+    height: 90px;
+
+}
+.frame7888 p{
+    width: 462px;
+    height: 16px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+
+.frame1000{
+    width: 462px;
+    height: 58px;
+    border-radius:16px ;
+    padding:8px 16px;
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(32px);
+    gap:32px;
+
+
+}
+.frame1002{
+    width: 188px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: bold;
+    color:#2659C3;
+    padding:12px 32px;
+    border-radius:32px ;
+    text-align: center;
+    gap: 8px;
+    background: #FFFFFF;
+    backdrop-filter: blur(32px);
+    border-radius: 16px;
+
+}
+.frame1001{
+    padding: 12px 8px;
+    width: 210px;
+    height: 42px;
+    gap:8px;
+}
+.frame1001 span{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    opacity: 0.7;
+
+}
+
+/*82*/
+
+
+.footer{
+    width:1366px;
+    height:288px;
+    background-color: #141414;
+    margin-top: 3321px;
+    gap:125px;
+}
+.footer h3{
+    color:white;
+    position: absolute;
+    margin-top: 42px;
+    margin-left: 120px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+}
+ 
+.footer .links{
+    
+     
+    width:917px;
+    height:113px;
+    margin-left: 329px;
+    justify-content: space-between;
+    margin-top: 42px;
+    
+     
+}
+.footer .links .column1{
+    gap: 15px;
+    width: 142px;
+    height: 113px;
+  
+    
+}
+.footer .links .column1 a{
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color:#808080;
+    text-decoration: none;
+
+ 
+}
+.footer .btn{
+    box-sizing: border-box;
+    margin-left: 322px;
+    margin-top: 175px;
+    height: 37px;
+    padding:10px 15px;
+    border: 1px solid #808080;
+    color: #808080;
+    font-style: normal;
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    
+    
+    
+}
+.footer p{
+    margin-left: 319px;
+    margin-top: 232px;
+    color:#808080;
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 14px;
+}
+.social{
+
+    margin-left: 1090px;
+    margin-top: 185px;
+    gap:20px;
+     
+
+}
+.social .socialicon{
+    width:24px;
+    height:24px;
+    color:#808080;
+}
+.frame86{
+    gap: 24px;
+    width: 1366px;
+    height: 404px;
+    justify-content: space-between;
+   
+}
+.frame87{
+    padding: 8px 120px;
+    gap: 8px;
+    width: 951px;
+    height: 53px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.frame87 h1{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 500; /* 700 */
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+    width: 711px;
+    height: 37px;
+    
+}
+.frame85{
+    width: 1366px;
+    height: 343px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    overflow: hidden;
+    margin-top:53px;
+}
+.frame37 , .frame75, .frame76, .frame77{
+    padding: 16px;
+    gap: 24px;
+    width: 342px;
+    height: 343px;
+    left: 120px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(158, 158, 158, 0.25);
+    border-radius: 16px;
+}
+.frame31{
+    width: 310px;
+    height: 200px;
+    border-radius: 8px;
+}
+.frame31 img{
+    width: 310px;
+    height: 200px;
+}
+.frame43{
+    gap:8px;
+    width: 310px;
+    height: 87px;
+}
+.frame42{
+    width: 310px;
+    height: 31px;
+    opacity: 0.8;
+}
+.frame42 span{
+    width: 54px;
+    height: 31px;
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #000000;
+}
+.frame85 .span1, 
+.frame85 .span2
+{
+    width: 133px;
+    height: 20px;
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color:black;
+    opacity: 0.5;
+}
+.frame75{
+    left: 478px;
+}
+.frame76{
+    left: 836px;
+}
+.frame77{
+    left: 1194px;
+
+}
+
+.frame15{
+    width: 1366px;
+    height: 85px;
+    background: rgba(255, 255, 255, 0.02);
+    
+}
+.frame12{
+    justify-content: space-between;
+    align-items: center;
+    gap: 598px;
+    width: 1272px;
+    height: 37px;
+    left: 47px;
+    top: 24px;
+ 
+}
+.frame12 h1{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+.frame9{
+    align-items: center;
+    gap: 24px;
+    width: 440px;
+    height: 34px;
+    
+}
+.frame16{
+    box-sizing: border-box;
+    align-items: flex-start;
+    padding: 8px;
+    gap: 8px;
+    width: 59px;
+    height: 34px;
+    border-bottom: 1px solid #FFFFFF;
+
+}
+.frame16 p,
+.frame17 p,
+.frame18 p,
+.frame19 p,
+.frame20 p{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+.frame17,.frame18,.frame19,.frame20{
+    box-sizing: border-box;
+    align-items: flex-start;
+    padding: 8px;
+    gap: 8px;
+    width: 59px;
+    height: 34px;
+}
+.frame20 p{
+    font-weight: 700;
+}
